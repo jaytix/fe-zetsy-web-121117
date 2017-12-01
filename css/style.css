@@ -18,3 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header a {
+	color: rgb(147,175,166)
+}
