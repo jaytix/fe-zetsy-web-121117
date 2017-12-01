@@ -38,3 +38,7 @@ h1 {
 #press h2 {
 	color: rgb(147, 175, 166);
 }
+
+h1 + img {
+	border: 5px solid rgb(147,175,166);
+}
