@@ -48,3 +48,7 @@ h1 + img {
 #press img {
 	border: 5px rgb(204,204,204) solid;
 }
+
+footer {
+	text-align: right;
+}
