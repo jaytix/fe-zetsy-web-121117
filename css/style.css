@@ -21,4 +21,5 @@ body {
 
 header a {
 	color: rgb(147,175,166)
+	text-decoration: none;
 }
